@@ -81,6 +81,6 @@ button {
     background-color: rgb(187, 10, 10);
 }
 
-.side-container .equal {
+.side-container #equal {
     background-color: orange;
 }
